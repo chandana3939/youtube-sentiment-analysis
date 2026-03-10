@@ -19,5 +19,5 @@ This project analyzes the sentiment of YouTube comments using Python and the You
 - youtube_sentiment.py → Python script for analysis
 - youtube_comments_sentiment.csv → Output dataset
 
--->Output
+-->Output:
 The program classifies comments and generates a sentiment dataset for further analysis.
