@@ -4,7 +4,7 @@ from textblob import TextBlob
 import matplotlib.pyplot as plt
 
 # YouTube API key
-api_key = "AIzaSyCV3uqAJ_owYTBdGGO8OuyAXgvhqVvT5Bs"
+api_key = "YOUR_API_KEY"
 
 # YouTube video ID
 video_id = "M9rqo776gV8"
@@ -48,5 +48,6 @@ sentiment_count.plot(kind="bar")
 plt.title("YouTube Comment Sentiment Analysis")
 plt.xlabel("Sentiment")
 plt.ylabel("Number of Comments")
+
 
 plt.show()
